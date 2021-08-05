@@ -1,5 +1,4 @@
 <script>
-
 import HeaderBar from '@/components/header-bar.vue';
 import NavBar from '@/components/nav-bar.vue';
 
